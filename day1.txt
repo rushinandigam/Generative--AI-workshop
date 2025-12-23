@@ -1,0 +1,33 @@
+prompt : 
+ 	A prompt is any input you provide to generative AI model to produce a get desired output 
+
+
+
+====================================================================================================
+
+The five Elements of a Prompt 
+------------------------------------
+
+1. Persona - role of AI 
+2. Context - what is background 
+3. Task    - what exactly you want 
+4. Constraints - what it should be avoid 
+5. output - how do you want the answer ( markdown , tabular ...etc) 
+=====================================================================================================
+
+----n8n automation tool of purplelane 
+
+https://automate.purplelane.in 
+
+========================================================================================================
+
+
+Types of prompts 
+------------------------------
+1. Few shot prompt 
+2. Chain of thought prompt 
+3. meta prompting 
+
+=====================================================================================================
+
+
